@@ -1,0 +1,3 @@
+/home/pansy/桌面/Engineering/cmake-build-debug/CMakeFiles/Engineering_A_2023_C_Board.elf.dir
+/home/pansy/桌面/Engineering/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pansy/桌面/Engineering/cmake-build-debug/CMakeFiles/rebuild_cache.dir
